@@ -11,5 +11,5 @@ import lombok.extern.jackson.Jacksonized;
 public class TestSQS {
 
     @NonNull
-    private String trcaeId;
+    private String traceId;
 }
